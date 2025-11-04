@@ -58,9 +58,4 @@ The model shows strong predictive ability for estimating CO₂ emission levels.
 
 ---
 
-## 🗣️ Elevator Pitch  
-> “Our AI model predicts CO₂ emissions before they rise—empowering governments and citizens to act early for a cleaner, sustainable planet.”  
-
----
-
-## 🧩 Repository Contents  
+ 
